@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Estela 👋
+
+- I am a junior data analyst
+- I enjoy Python, Pandas, and Matplotlib
+- I am currently learning about Machine Learning and AWS-RDS
+
+My portfolio is under construction and will be available soon!
 
 <!--
 **eperez3181/eperez3181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
