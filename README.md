@@ -1,7 +1,7 @@
 ### Hi there, I'm Estela 👋
 
 - I am a junior data analyst
-- I enjoy Python, Pandas, and Matplotlib
+- I enjoy Python, Pandas, Matplotlib, and PostgreSQL
 - I am currently learning about Machine Learning and AWS-RDS
 
 My portfolio is under construction and will be available soon!
