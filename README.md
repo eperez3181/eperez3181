@@ -3,6 +3,7 @@
 - I am a junior data analyst
 - I enjoy Python, Pandas, Matplotlib, and PostgreSQL
 - I am currently learning about Machine Learning and AWS-RDS
+- ⚡ Fun fact: I love helping animals!!
 
 My portfolio is under construction and will be available soon!
 
