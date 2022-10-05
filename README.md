@@ -1,12 +1,12 @@
 ### Hi there, I'm Estela 👋
 
 - I am a junior data analyst
-- 🔭 I have knowledge in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning
-- 😄 I enjoy Python, Pandas, and PostgreSQL
+- I have knowledge in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning
+- I enjoy Python, Pandas, and PostgreSQL
 - 📫 My email address: eperez3181@gmail.com
 - ⚡ Fun fact: I love helping animals!!
 
-My portfolio is under construction and will be available soon!
+:construction: My portfolio is under construction and will be available soon!
 
 <!--
 **eperez3181/eperez3181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
