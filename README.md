@@ -1,8 +1,8 @@
 ### Hi there, I'm Estela 👋
 
 - I am a junior data analyst
-- I have knowledge in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning
-- I enjoy Python, Pandas, and PostgreSQL
+- 🔭 I have knowledge in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning
+- 😄 I enjoy Python, Pandas, and PostgreSQL
 - 📫 My email address: eperez3181@gmail.com
 - ⚡ Fun fact: I love helping animals!!
 
