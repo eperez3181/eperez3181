@@ -2,7 +2,7 @@
 
 - I am a data engineer
 - I have knowledge in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning
-- I enjoy backend development
+- I enjoy back-end development
 - 📫 My email address: eperez3181@gmail.com
 - ⚡ Fun fact: I love helping animals!!
 
