@@ -1,6 +1,6 @@
 ### Hi there, I'm Estela 👋
 
-- I am a data engineer
+- I am a junior data analyst/engineer
 - I have knowledge in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning
 - I enjoy back-end development
 - 📫 My email address: eperez3181@gmail.com
